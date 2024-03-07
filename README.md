@@ -69,4 +69,6 @@ This project aims to study accidents in the USA to reinforce knowledge in data s
     <h2> You can also find me at: </h2>
 <a href= https://www.linkedin.com/in/caiolacerdamt/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://instagram.com/caiolmt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ [![E-mail](https://img.shields.io/badge/E-mail-red?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:caiolacerdamt@gmail.com)
 </div>
